@@ -4,8 +4,8 @@ Hi 👋 My name is Mangesh
 Front-End Developer
 -------------------
 
-I have total 1-yr exp. apart from that (6 months UI and 6 months React-js)
+I have total 2+ yrs experiance. 
 
-* 🌍  I'm based in Aurangabad
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [mangeshm144@gmail.com](mailto:mangeshm144@gmail.com )
-* 🧠  I'm learning material UI
+* 🧠  I'm learning Node js,
